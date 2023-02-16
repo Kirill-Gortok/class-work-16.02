@@ -1,0 +1,7 @@
+.q{
+    font-size: 35px;
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    background-image: linear-gradient(to right, #251b4b, #d2df1b);
+}
